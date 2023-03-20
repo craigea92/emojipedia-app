@@ -32,3 +32,4 @@ npm start
 - .reduce() - Accumulate a value by doing something to each item in an array
 - .find() - Find the first item that matches from an array
 - .findIndex() - Find the index of the first item that matches
+- .slice() - Extract a section of a string, delimited by two indexes, and return a new one.
